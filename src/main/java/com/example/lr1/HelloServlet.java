@@ -1,3 +1,5 @@
+//Вариант 3
+
 package com.example.lr1;
 
 import java.io.*;
